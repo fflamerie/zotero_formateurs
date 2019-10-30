@@ -3,7 +3,7 @@
 <!-- $size: 16:9 -->
 
 # Concevoir et animer une formation à Zotero : atelier de pratiques pédagogiques pour formateurs
-# Programme
+
 **Urfist Bordeaux**
 7 novembre 2019
 Matériel du cours en ligne [GitHub > fflamerie > zotero_formateurs](https://github.com/fflamerie/zotero_formateurs)
