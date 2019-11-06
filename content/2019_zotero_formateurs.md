@@ -190,26 +190,25 @@ McCutcheon, J. (2019, 9 septembre). Three Reasons to Teach and Use Zotero in the
 
 ---
 
-# 4. Mise en situation 1/2
+# 4. Mise en situation 1/2 : consignes
 
-On travaille en petits groupes. Chacun des 4 groupes doit traiter l'une des situations proposées. Une même situation peut être traitée par 2 groupes, les situations à traiter obligatoirement sont signalées par un cercle rouge.
+Vous travaillez en petits groupes. Chacun des **4 groupes** doit traiter l'une des situations proposées. Une même situation peut être traitée par 2 groupes. Les situations à traiter **obligatoirement** sont signalées par un cercle rouge :o:.
 
 
-Pour la situation choisie, pendant le temps imparti - **25 min** - vous devez identifier :
+Pour la situation choisie, pendant le temps imparti - :watch: **25 min** - vous devez identifier :
 * les fonctionnalités de Zotero à présenter,
-* les éventuels points méthodologiques (ou connexes à Zotero) à présenter,
+* les éventuels points méthodologiques (ou connexes à Zotero) à aborder,
 * le type de support de formation le plus adapté,
 * l'activité précise ou le type d'activité que vous pourriez proposer. 
 
-On met en commun ensuite - **10 min/groupe** - à partir des fiches que vous aurez complétées et que je déposerai dans l'espace de partage. 
+On met en commun ensuite - :watch: **10 min/groupe** - à partir des fiches que vous aurez complétées et que je déposerai dans l'espace de partage. 
 
 ---
 
-# 4. Mise en situation 2/2
+# 4. Mise en situation 2/2 : les situations proposées
 
-Les situations proposées.
 
-**S1** : séance de 2h à destination d'étudiants en Licence. Ces étudiants doivent dans le cadre d'un travail en groupe rédiger un article pour Wikipedia. 
+**S1** : séance de 2h à destination d'étudiants en Licence. Ces étudiants doivent dans le cadre d'un travail en groupe rédiger ou enrichir un article de Wikipedia. 
 
 :o: **S2** : séance à destination d'étudiants en Master. Les enseigants vous proposent de déterminer la durée, de minimum 30 minutes à maximum 2h. 
 
@@ -238,7 +237,7 @@ Les situations proposées.
 > 6. [...]
 > 7. **Les adultes veulent des conseils.** Les adultes veulent de l'information qui les aidera à améliorer leur situation ou à résoudre des problèmes, mais ils ne veulent pas qu'on leur dise quoi faire : ils veulent plutôt choisir des options en fonction de leurs besoins individuels.
 
-Traduit de : Bezjak, S. et al. (2018). On Learning and Training. Dans _Open Science Training Handbook_. Hannover : FOSTER Plus Consortium. Repéré à https://open-science-training-handbook.gitbook.io/book/on-learning-and-training
+Traduit de : Bezjak, S. et al. (2018). On Learning and Training. Dans _Open Science Training Handbook_. Hannover : FOSTER Plus Consortium. Repéré à https://open-science-training-handbook.gitbook.io/book/on-learning-and-training
 
 
 
