@@ -6,7 +6,7 @@ Le matériel est composé des éléments suivants.
 
 * Support de formation (diaporama) - [md](https://github.com/fflamerie/zotero_formateurs/blob/master/content/2019_zotero_formateurs.md) et [pdf](https://github.com/fflamerie/zotero_formateurs/blob/master/content/2019_zotero_formateurs.pdf)
 * TP : seul le [gabarit](https://github.com/fflamerie/zotero_formateurs/blob/master/content/tp/zotero_formateurs_mise_en_situation_gabarit.odt) pour la mise en situation est fourni - les exemples présentés lors de l'analyse de cas sont référencés parmi les ressources citées
-* Ressources citées et ressources complémentaires - [Zotero RDF](https://github.com/fflamerie/zotero_formateurs/blob/master/content/2019_zotero_formateurs_bilbio.rdf) et [BibTeX](https://github.com/fflamerie/zotero_formateurs/blob/master/content/2019_zotero_formateurs_biblio.bib)
+* Ressources citées et ressources complémentaires - [Zotero RDF](https://github.com/fflamerie/zotero_formateurs/blob/master/content/2019_zotero_formateurs_biblio.rdf) et [BibTeX](https://github.com/fflamerie/zotero_formateurs/blob/master/content/2019_zotero_formateurs_biblio.bib)
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/fr/88x31.png" /></a><br />Les supports sont mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 3.0 France</a>.
