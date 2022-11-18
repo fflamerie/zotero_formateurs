@@ -1,6 +1,6 @@
 # Concevoir et animer une formation à Zotero : atelier de pratiques pédagogiques pour formateurs
 
-Formation ["Concevoir et animer une formation à Zotero : atelier de pratiques pédagogiques pour formateurs"](https://sygefor.reseau-urfist.fr/#/training/9696/11447?from=true) à l'Urfist Bordeaux en novembre 2022, 9h30-16h30.
+Formation ["Concevoir et animer une formation à Zotero : atelier de pratiques pédagogiques pour formateurs"](https://sygefor.reseau-urfist.fr/#/training/9696/11447?from=true) à l'Urfist Bordeaux en 2023, 9h30-16h30.
 
 ## Objectifs
 
