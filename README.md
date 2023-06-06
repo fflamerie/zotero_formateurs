@@ -13,7 +13,13 @@ Formation ["Concevoir et animer une formation à Zotero : atelier de pratiques p
 * [Support de formation au format PDF](https://github.com/fflamerie/zotero_formateurs/blob/master/docs/zotero_formateurs.pdf) 
 * [Support de formation au format PPTX](https://github.com/fflamerie/zotero_formateurs/blob/master/docs/zotero_formateurs.pptx) 
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/fr/88x31.png" /></a><br />Les supports sont mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 3.0 France</a>.
+📚 [Bibliothèque de groupe Zotero de la formation](https://www.zotero.org/groups/5085932/urfistbx_zotform)
+</br>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/fr/88x31.png" /></a></br>
+Les supports sont mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 3.0 France</a>.
+
+***
 
 ## Descriptif de la formation sur le site de l'Urfist
 
