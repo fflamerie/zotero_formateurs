@@ -1,6 +1,6 @@
 # Concevoir et animer une formation à Zotero : atelier de pratiques pédagogiques pour formateurs
 
-Formation ["Concevoir et animer une formation à Zotero : atelier de pratiques pédagogiques pour formateurs"](https://sygefor.reseau-urfist.fr/#/training/9696/11447?from=true) à l'Urfist Bordeaux en 2023, 9h30-16h30.
+Stage Urfist ["Concevoir et animer une formation à Zotero : atelier de pratiques pédagogiques pour formateurs"](https://sygefor.reseau-urfist.fr/#/training/9696/11447?from=true).
 
 ## Objectifs
 
@@ -14,10 +14,10 @@ Formation ["Concevoir et animer une formation à Zotero : atelier de pratiques p
 * [Support de formation au format PPTX](https://github.com/fflamerie/zotero_formateurs/blob/master/docs/zotero_formateurs.pptx) 
 
 📚 [Bibliothèque de groupe Zotero de la formation](https://www.zotero.org/groups/5085932/urfistbx_zotform)
+
 </br>
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/fr/88x31.png" /></a></br>
-Les supports sont mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 3.0 France</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/fr/88x31.png" /></a><br />Les supports sont mis à disposition selon les termes de la <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr">Licence Creative Commons Attribution - Partage dans les mêmes conditions 4.0 International Deed</a>.
 
 ***
 
