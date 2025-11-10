@@ -10,10 +10,11 @@ Stage Urfist ["Concevoir et animer une formation à Zotero : atelier de pratique
 
 ## Support de formation
 
-* [Support de formation au format PDF](https://github.com/fflamerie/zotero_formateurs/blob/master/docs/zotero_formateurs.pdf) 
-* [Support de formation au format PPTX](https://github.com/fflamerie/zotero_formateurs/blob/master/docs/zotero_formateurs.pptx) 
+📑 [Support de cours au format PDF](https://github.com/fflamerie/zotero_formateurs/blob/master/docs/zotero_formateurs_COURS.pdf)
 
-📚 [Bibliothèque de groupe Zotero de la formation](https://www.zotero.org/groups/5085932/urfistbx_zotform)
+📚 [Liste de ressources au format PDF](https://github.com/fflamerie/zotero_formateurs/blob/master/docs/zotero_formateurs_BIBLIO.pdf)
+
+📚 [Liste de ressources au format BiBTeX](https://github.com/fflamerie/zotero_formateurs/blob/master/docs/zotero_formateurs_BIBLIO.bib)
 
 </br>
 
@@ -21,38 +22,12 @@ Stage Urfist ["Concevoir et animer une formation à Zotero : atelier de pratique
 
 ***
 
-## Descriptif de la formation sur le site de l'Urfist
+## Programme
 
-### Objectifs
+Sur quelles fonctionnalités de Zotero mettre l'accent ? Comment concevoir des activités pratiques ne se réduisant pas à la reproduction des démonstrations du formateur ? Comment tenir compte de spécificités induites par un champ disciplinaire, ou inversement animer des séances sans orientation disciplinaire ? Comment aborder les potentialités du logiciel mais aussi ses limites ? Comment tirer parti de formats très courts, ou au contraire assurer l'intérêt de son auditoire sur la durée ? Enfin, comment enfin éviter l’écueil d’une approche techniciste, où le jargon domine et l’interface dicte le déroulé de la séance ? Aucun enjeu ne ressort alors clairement pour l’auditoire, qui ne comprend plus dans quels cas utiliser telle fonctionnalité plutôt qu'une autre, surtout quand le résultat semble similaire. Frustration et lassitude gagnent aussi le formateur, qui ne parvient pas à transmettre des contenus et enjeux pourtant évidents de son point de vue.
+Autant de questionnements auxquels un formateur déjà expérimenté ou novice peut être confronté, et qu’il s’agit de partager collectivement. La forme de l'atelier laisse une place importante aux échanges entre les participants et au travail pratique sur les séquences pédagogiques.
 
-* Identifier les contenus théoriques et pratiques les plus adaptés en fonction du public, du format et de l'environnement de formation
-* Analyser ses pratiques de formateur
-* Préparer ses séquences pédagogiques
-
-### Pré-requis
-
-*	Connaître le fonctionnement général de Zotero - équivalent du niveau B2-C1 pour une langue
-*	Utiliser régulièrement Zotero
-
-### Programme
-
-_Cette formation s'adresse à tout personnel amené ou prochainement amené à animer des formations à Zotero. Elle ne cible pas les utilisateurs finaux de Zotero : les personnes intéressées par l'utilisation de Zotero sont invitées à s'inscrire au stage "Gérer facilement sa bibliographie avec Zotero". Si une expérience préalable de formateur n'est pas requise pour participer au stage, une bonne connaissance et une utilisation régulière de Zotero constituent des pré-requis nécessaires._
-
-Sur quelles fonctionnalités mettre l'accent ? Comment médiatiser ses contenus de manière efficace ? Comment améliorer, enrichir ses supports de formation ? Comment concevoir des activités pratiques ne se réduisant pas à la reproduction des démonstrations du formateur ?
-Comment tenir compte des spécificités induites par le champ disciplinaire des usagers à former ? Et inversement, comment animer des séances sans orientation disciplinaire ? Comment aborder les potentialités de l'outil mais aussi ses limites ? Comment tirer parti de formats très courts ou au contraire assurer l'intérêt de son auditoire sur la durée ?
-
-En d'autres termes, comment éviter le plus possible de sombrer dans l'écueil d'une approche techniciste où :
-* le jargon domine,
-* l'interface dicte le déroulé de la séance,
-* on a bien cliqué sur toutes les commandes mais formateur et participants ont fini par perdre le fil conducteur de l'exposé.
-
-Aucun enjeu ne ressort clairement pour l'utilisateur qui ne comprend plus dans quels cas utiliser telle fonctionnalité plutôt qu'une autre, surtout quand le résultat est en apparence similaire :
-* tout semble équivalent et les redondances engendrent la lassitude de l'auditoire,
-* le formateur met l'accent sur des enjeux clairs uniquement pour lui, mais plus pour son auditoire.
-
-Autant de questions qu'un formateur déjà expérimenté ou novice peut être amené à se poser.
-La forme de l'atelier laisse une place importante aux échanges entre les participants et au travail pratique sur les séquences pédagogiques.
 * Identifier les enjeux pédagogiques et méthodologiques d'une formation à Zotero
-* Analyser ses pratiques de formateur à Zotero actuel ou à venir : point d’étape sur ses points forts et difficultés 
-* Sélectionner ses supports de formation 
-* Construire une séquence de formation à Zotero : travail de réflexion et de conception à partir de situations de formation déterminées (public, format, environnement, etc.)
+* Analyser ses pratiques actuelles ou à venir de formation à Zotero : point d’étape sur ses points forts et difficultés
+* Sélectionner ses supports et activités pédagogiques
+* Construire une séquence de formation à Zotero : travail de réflexion et de conception à partir de situations de formation déterminées (public, format, environnement, etc.) 
